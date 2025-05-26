@@ -1,0 +1,83 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="800" fill="#f5f8ff"/>
+  
+  <!-- Abstract Shapes -->
+  <!-- Large Circle -->
+  <circle cx="1000" cy="200" r="300" fill="#4a6cf7" opacity="0.05"/>
+  
+  <!-- Small Circles -->
+  <circle cx="200" cy="600" r="150" fill="#4a6cf7" opacity="0.05"/>
+  <circle cx="400" cy="100" r="80" fill="#4a6cf7" opacity="0.05"/>
+  <circle cx="900" cy="700" r="100" fill="#4a6cf7" opacity="0.05"/>
+  
+  <!-- Dots Pattern -->
+  <g fill="#4a6cf7" opacity="0.2">
+    <!-- Row 1 -->
+    <circle cx="100" cy="100" r="3"/>
+    <circle cx="150" cy="100" r="3"/>
+    <circle cx="200" cy="100" r="3"/>
+    <circle cx="250" cy="100" r="3"/>
+    <circle cx="300" cy="100" r="3"/>
+    
+    <!-- Row 2 -->
+    <circle cx="100" cy="150" r="3"/>
+    <circle cx="150" cy="150" r="3"/>
+    <circle cx="200" cy="150" r="3"/>
+    <circle cx="250" cy="150" r="3"/>
+    <circle cx="300" cy="150" r="3"/>
+    
+    <!-- Row 3 -->
+    <circle cx="100" cy="200" r="3"/>
+    <circle cx="150" cy="200" r="3"/>
+    <circle cx="200" cy="200" r="3"/>
+    <circle cx="250" cy="200" r="3"/>
+    <circle cx="300" cy="200" r="3"/>
+  </g>
+  
+  <g fill="#4a6cf7" opacity="0.2">
+    <!-- Row 1 -->
+    <circle cx="900" cy="500" r="3"/>
+    <circle cx="950" cy="500" r="3"/>
+    <circle cx="1000" cy="500" r="3"/>
+    <circle cx="1050" cy="500" r="3"/>
+    <circle cx="1100" cy="500" r="3"/>
+    
+    <!-- Row 2 -->
+    <circle cx="900" cy="550" r="3"/>
+    <circle cx="950" cy="550" r="3"/>
+    <circle cx="1000" cy="550" r="3"/>
+    <circle cx="1050" cy="550" r="3"/>
+    <circle cx="1100" cy="550" r="3"/>
+    
+    <!-- Row 3 -->
+    <circle cx="900" cy="600" r="3"/>
+    <circle cx="950" cy="600" r="3"/>
+    <circle cx="1000" cy="600" r="3"/>
+    <circle cx="1050" cy="600" r="3"/>
+    <circle cx="1100" cy="600" r="3"/>
+  </g>
+  
+  <!-- Wave Patterns -->
+  <path d="M0 600 Q300 500 600 600 Q900 700 1200 600 L1200 800 L0 800 Z" fill="#4a6cf7" opacity="0.05"/>
+  <path d="M0 650 Q300 550 600 650 Q900 750 1200 650 L1200 800 L0 800 Z" fill="#4a6cf7" opacity="0.05"/>
+  
+  <!-- Code Symbols -->
+  <text x="100" y="400" font-family="monospace" font-size="24" fill="#4a6cf7" opacity="0.1">&lt;/&gt;</text>
+  <text x="1000" y="300" font-family="monospace" font-size="24" fill="#4a6cf7" opacity="0.1">&lt;/&gt;</text>
+  <text x="500" y="200" font-family="monospace" font-size="24" fill="#4a6cf7" opacity="0.1">&lt;/&gt;</text>
+  <text x="800" y="100" font-family="monospace" font-size="24" fill="#4a6cf7" opacity="0.1">&lt;/&gt;</text>
+  <text x="300" y="700" font-family="monospace" font-size="24" fill="#4a6cf7" opacity="0.1">&lt;/&gt;</text>
+  
+  <!-- Abstract Lines -->
+  <line x1="0" y1="300" x2="200" y2="350" stroke="#4a6cf7" stroke-width="1" opacity="0.1"/>
+  <line x1="1000" y1="400" x2="1200" y2="450" stroke="#4a6cf7" stroke-width="1" opacity="0.1"/>
+  <line x1="400" y1="0" x2="450" y2="200" stroke="#4a6cf7" stroke-width="1" opacity="0.1"/>
+  <line x1="700" y1="600" x2="750" y2="800" stroke="#4a6cf7" stroke-width="1" opacity="0.1"/>
+  
+  <!-- Geometric Shapes -->
+  <rect x="150" y="450" width="50" height="50" fill="#4a6cf7" opacity="0.05"/>
+  <rect x="1000" y="150" width="50" height="50" fill="#4a6cf7" opacity="0.05"/>
+  <polygon points="600,50 650,100 550,100" fill="#4a6cf7" opacity="0.05"/>
+  <polygon points="800,650 850,700 750,700" fill="#4a6cf7" opacity="0.05"/>
+</svg>
